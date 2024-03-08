@@ -1,4 +1,4 @@
-# Status Finder
+# Status Finder 🔎
 
 Status Finder es una herramienta desarrollada en Rust diseñada para trabajar con fechas y semanas, específicamente en el formato de "status" utilizado en ciertos contextos laborales.
 
