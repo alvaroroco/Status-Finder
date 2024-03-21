@@ -3,6 +3,7 @@ use dialoguer::{theme::ColorfulTheme, Input, Select};
 use std::env;
 
 fn get_week_number(date_obj: NaiveDate) -> u32 {
+    // Cojemos el objeto NaiveDate y lo convertimos al número de semana
     date_obj.iso_week().week()
 }
 
